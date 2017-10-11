@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_ca4389e1e003b98001a2e018cdd3ce8376508745.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_40dd73be8375878220134e593a90e063af82a56f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BigMac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_9b123e2242bd965e6b326c47175c766b8100337c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_2b6147248d93bd58220c76433db6491ec0401b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_77e3aae49ac777ad7610c18a2f7b568698a70421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_80f18003a7d68e4b76edd820ba9cf5543b4d6e1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_7651659594eef70d3ee15f1ee0e40afad410763e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_ac5e09e2656df0a21183e1532f70e21936c3dc8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_4c4f02f04284fa88ee6f57af2c325abf36dcb2ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/BigMac/Documents/SlotMachine/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_5cd2b70d2bd06a707c1c209601df2e5068f0f9ba.jar" />
+    </item>
+
+</items>

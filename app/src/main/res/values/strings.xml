@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Slot Machine</string>
+    <string name="textview">TextView</string>
+    <string name="button">Pull</string>
+    <string name="newText">TextView</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="bet_amount">TextView</string>
+    <string name="console">Test Your Luck!</string>
+    <string name="exit">Quit</string>
+</resources>
